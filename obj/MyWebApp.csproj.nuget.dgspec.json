@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sundehakon/MyWebApp/MyWebApp.csproj": {}
+    "/Users/sundehakon/Documents/homepage/MyWebApp.csproj": {}
   },
   "projects": {
-    "/Users/sundehakon/MyWebApp/MyWebApp.csproj": {
+    "/Users/sundehakon/Documents/homepage/MyWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sundehakon/MyWebApp/MyWebApp.csproj",
+        "projectUniqueName": "/Users/sundehakon/Documents/homepage/MyWebApp.csproj",
         "projectName": "MyWebApp",
-        "projectPath": "/Users/sundehakon/MyWebApp/MyWebApp.csproj",
+        "projectPath": "/Users/sundehakon/Documents/homepage/MyWebApp.csproj",
         "packagesPath": "/Users/sundehakon/.nuget/packages/",
-        "outputPath": "/Users/sundehakon/MyWebApp/obj/",
+        "outputPath": "/Users/sundehakon/Documents/homepage/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sundehakon/.nuget/NuGet/NuGet.Config"
